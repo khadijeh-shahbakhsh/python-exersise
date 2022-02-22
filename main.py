@@ -69,4 +69,4 @@
 #       min=z
 #       print(min)
 #       min=0
-
+print("welcom")
